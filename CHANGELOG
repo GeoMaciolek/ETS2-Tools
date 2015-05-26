@@ -1,0 +1,5 @@
+# Change Log
+
+## 2015-05-26
+
+- Initial commit, live_streams.sii CSV output & basic support for RhythmBox rhythmdb.xml  only.
